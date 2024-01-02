@@ -23,9 +23,11 @@ I am Mohamed Rami Jebali, a dedicated software engineering student with a passio
 - **Internship, XYZ Company:** Brief description of your internship experience and key learnings.
 --->
 
+<!---
 ## Goals
 
 I am actively seeking part-time work opportunities to apply and enhance my skills in a real-world setting. Open to collaboration and always excited to take on new challenges.
+--->
 
 ## Contact
 
