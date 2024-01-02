@@ -31,17 +31,20 @@ I am actively seeking part-time work opportunities to apply and enhance my skill
 
 ## Contact
 
+<!---
 Feel free to reach out to me for collaboration, job opportunities, or discussions related to software engineering.
+--->
 
 - LinkedIn: [Mohamed Rami Jeabli](https://www.linkedin.com/in/mohamed-rami-jebali-185089249/)
 - Email: mohamedrami.jebali@enicar.ucar.tn
 
+<!---
 ## Open to Collaboration
 
 I am open to contributing to open-source projects. If you have any interesting projects or collaborations, don't hesitate to get in touch.
 
 Looking forward to connecting with fellow developers and industry professionals!
-
+--->
 
 
 
