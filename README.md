@@ -14,7 +14,8 @@ I am Mohamed Rami Jebali, a dedicated software engineering student with a passio
 
 ## Projects
 
-- **Classic Donkey Kong:** a 2D arcade game released in 1981 by Nintendo. Players control Mario, navigating through construction-themed levels to rescue his girlfriend from the giant ape, Donkey Kong. The game involves climbing, jumping, and avoiding obstacles to reach the top and save Peach.
+- **[Classic Donkey Kong:](https://github.com/jebalirami7/Classic-Donkey-Kong)** a 2D arcade game released in 1981 by Nintendo. Players control Mario, navigating through construction-themed levels to rescue his girlfriend from the giant ape, Donkey Kong. The game involves climbing, jumping, and avoiding obstacles to reach the top and save Peach.
+- **[Mesa Verde Bank:](https://github.com/jebalirami7/mesa-verde-bank)** The Bank Customer Complaint Management System is a streamlined software platform for efficiently receiving, tracking, and resolving customer complaints within a banking institution, ensuring timely responses and improved customer satisfaction.
 - **CPC Platform:** a web project dedicated to fostering a collaborative community passionate about problem-solving.
 
 <!---
