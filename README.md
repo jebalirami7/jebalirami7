@@ -1,8 +1,48 @@
+<link rel="stylesheet" type="text/css" href="styles.css">
+
 # Mohamed Rami Jebali
 
 ## About Me
 
 I am Mohamed Rami Jebali, a dedicated software engineering student with a passion for crafting innovative solutions. Currently, I am enrolled in a software engineering program, where I am gaining a solid foundation in programming, software development, and problem-solving.
+
+## Skills
+
+### Programming Languages
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++">
+</div>
+
+
+### Web Technologies
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="ExpressJS" width="50" height="50">
+</div>
+
+### Version Control
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50">
+</div>
+
+### Database Management
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgres" width="50" height="50">
+</div>
+
+### Problem Solving
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://image.flaticon.com/icons/png/512/888/888970.png" alt="Algorithm" width="50" height="50">
+</div>
+
 
 ## Skills
 
