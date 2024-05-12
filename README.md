@@ -25,6 +25,7 @@ I am Mohamed Rami Jebali, a dedicated software engineering student with a passio
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="ExpressJS" width="50" height="50">
   <img src="https://nestjs.com/img/logo_text.svg" alt="NestJS" width="50" height="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="50" height="50" style="margin-right: 20px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Postgres" width="50" height="50">
 </div>
 
 #### Version Control:
@@ -37,6 +38,8 @@ I am Mohamed Rami Jebali, a dedicated software engineering student with a passio
 <div style="display: flex; align-items: center; justify-content: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgres" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDb" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50">
 </div>
 
 
