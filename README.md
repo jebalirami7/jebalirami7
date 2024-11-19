@@ -2,6 +2,13 @@
 
 # Mohamed Rami Jebali
 
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=jebalirami7&label=Profile%20views&color=0e75b6&style=flat"
+    alt="azizatallah00"
+  />
+</p>
+
 ## About Me
 
 I am Mohamed Rami Jebali, a dedicated software engineering student with a passion for crafting innovative solutions. Currently, I am enrolled in a software engineering program, where I am gaining a solid foundation in programming, software development, and problem-solving.
